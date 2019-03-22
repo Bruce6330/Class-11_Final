@@ -1,0 +1,6 @@
+Test Title:  Verify the vending machine is depensing the proper item based on the user's selection
+Description: Test the depensing ability of the vending machine
+Test Priority: Low 
+
+Pre-conditions:  User has a properly functioning vending machine
+Dependencies
